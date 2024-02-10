@@ -25,6 +25,22 @@ def main():
         "Kostava": {
             "Green": "https://wolt.com/en/geo/tbilisi/venue/spar-kostava/matonizirebeli-sasmeli-tropikuli-punshi-praimi-500ml-x-12ts-q-itemid-65ae73b5b5a7884c21ca4d10",
             "Paraguay": "https://wolt.com/en/geo/tbilisi/venue/spar-kostava/matonizirebeli-sasmeli-ice-pop-praimi-500ml-x-12ts-q-itemid-65ae73b5b5a7884c21ca4d11"
+        },
+        "Avlabari": {
+            "Green": "https://wolt.com/en/geo/tbilisi/venue/spar-irbakhi/matonizirebeli-sasmeli-tropikuli-punshi-praimi-500ml-x-12ts-q-itemid-65ae73c1b5a7884c21ca890b"
+        },
+        "Mukhiani": {
+            "Paraguay": "https://wolt.com/en/geo/tbilisi/venue/spar-mukhiani/matonizirebeli-sasmeli-ice-pop-praimi-500ml-x-12ts-q-itemid-65ae73bfb5a7884c21ca7d0d"  
+        },
+        "Kipshidze": {
+            "Green": "https://wolt.com/en/geo/tbilisi/venue/spar-kipshidze/matonizirebeli-sasmeli-tropikuli-punshi-praimi-500ml-x-12ts-q-itemid-65ae73b83c8d38a00812d80b",
+            "Paraguay": "https://wolt.com/en/geo/tbilisi/venue/spar-kipshidze/matonizirebeli-sasmeli-ice-pop-praimi-500ml-x-12ts-q-itemid-65ae73b83c8d38a00812d80c"
+        },
+        "Isani": {
+            "Green": "https://wolt.com/en/geo/tbilisi/venue/spar-isani/matonizirebeli-sasmeli-tropikuli-punshi-praimi-500ml-x-12ts-q-itemid-65ae73ba3c8d38a00812e40a"
+        },
+        "Vazha-Pshavela": {
+            "Blue": "https://wolt.com/en/geo/tbilisi/venue/spar-vazhapshavela/matonizirebeli-sasmeli-lurji-zholo-praimi-500ml-x-12ts-q-itemid-65ae73bc6bba10da0a9ddeac"
         }
     }
     
